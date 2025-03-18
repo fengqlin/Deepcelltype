@@ -1,0 +1,15 @@
+Package: Deepcelltype
+Title: Single-cell annotation using various large language models
+Version: 1.0.0
+Authors@R: 
+    person("Lin", "Feng", , "1397244720@qq.com", role = c("aut", "cre"))
+Maintainer: Lin Feng <1397244720@qq.com>  
+Description: Single-cell annotation using various large language models.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    dplyr,
+    httr,
+    jsonlite

@@ -18,9 +18,6 @@ install.packages("dplyr")
 ```
 
 ### Installation Methods
-#### 1. From GitHub (Recommended)
-If the package is hosted on GitHub:
-
 ```
 # Install devtools if not already installed
 if (!require("devtools")) install.packages("devtools")
